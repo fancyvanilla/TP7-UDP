@@ -8,7 +8,7 @@ Cet exercice établit une connexion UDP rudimentaire en :
 
 - **Client:**
   - Envoie un message simple ("Hello Server") au serveur en utilisant un `DatagramPacket`.
-- **Serveur (non inclus):**
+- **Serveur:**
   - Accepte le message du client et envoie une confirmation.
 
 ## Exercice 2: Modification d'objets sérialisables (Version corrigée)
